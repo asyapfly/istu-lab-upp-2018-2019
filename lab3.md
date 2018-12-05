@@ -29,4 +29,4 @@ __3) Разработать [landing page](https://ru.wikipedia.org/wiki/%D0%A6%
  
   - Форма обратной связи 
  
- 
+ P.S. Для записи видео можно использовать Open Broadcaster Software (https://obsproject.com/ru)
